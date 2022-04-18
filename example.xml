@@ -1,0 +1,67 @@
+<root system_width="1920" owner="RwtCjLTn13U=" check="X4bsWoQWXZ8=" show_percentage_completed="TRUE" dialogs_per_page="2" language="EN" scroll_speed="50" show_timeline="TRUE" show_redline="FALSE" make_backup="TRUE" show_exit_dialog="TRUE" custom_background="TRUE" background_file="E0Rt0oVuL9SR/x9SPG59JpfiZYWCyOCNC0lChg0JzWs="><project title="e6YfKkV10Zc=" type="tv_show" time="45" version="65"><characters>
+<meredith character_name="WaKI18XFGgrUaR4GNpehBg==" character_role="M6hgYTKVSoCz7eg7hdrALw==" role_notice="" character_profile="LM35Pvydo1nZAmh1aS9wb60Ltsca4wtNoIdVFkJVV/hPYeQvDVWInQ==" character_info="" show_status="VISIBLE">
+<connection202112011917376215 target="derek" story="story202112011917377997"></connection202112011917376215>
+</meredith>
+<derek character_name="uGUmFVxXbHbS71xuw1k4XA==" character_role="neeoeT/Zio9CoY2yY/oSTw==" role_notice="" character_profile="LM35Pvydo1nZAmh1aS9wb60Ltsca4wtNLp70mllrz7XVGETCs6f9mQ==" character_info="" show_status="VISIBLE">
+<connection202112011917376215 target="meredith" story="story202112011917377997"></connection202112011917376215>
+</derek>
+<webber character_role="ZlZ5IDB49DjXtVqfpbJknYxqglPeNEHf" character_name="" role_notice="" character_profile="" character_info="" show_status="VISIBLE"></webber>
+<character202204061911526285 character_role="VTqjO4+Qk111iBu5ZQFDuVOZKM585leA" character_name="" role_notice="" character_profile="" character_info="" show_status="HIDDEN"></character202204061911526285>
+</characters><episodes>
+<episode tech_name="UAHLXzM6OzYZgECirnYRWnAhxgBAeavReHhnpYaNa1M=" episode_title="TA6HOPuswV/WghKAeu0ru1RZy7p/KNgD" episode_description="kVfiuMhJv8eb7DpZt2Jih4RT8zjw7BFR7FEibtepw1tk0CCX4S+piBTuH7HxgmhQ+zTxWwSzPr7XrlSu+qkMD4gRA1J/EnpDc1Gn03HQAxB1koESha+7TwC4WAgcbxXBxfApxoutvmKbbRqIs2XGCRHCi3f3qSOV">
+<location tech_name="location202112011908338246">
+<scene_001_in_house tech_color="/1p5ywZUl6w=" tech_lenght="1057" scene_time="1" scene_title="nIBEWzZraDoD4TJ4gcG8ZqsooI7QZaBv1kPwBEqUOZyee5ecTS5K4w==" tech_pos="0" main_story="story202112011917377997">
+<speech202112011911377390 character_tech_name="meredith" speech_text="y8XLigNjZa7jl6c+NGzHbQwvMrdWben93aiXGPmQTkbMFWR/bzE6aBUcsSZf9+fk6EK4sRjM+DyaTQa6kLhCT8aw93vcAyOYSTDhhuuIZV3mx0r5XV/0wwtJQoYNCc1r" speech_type="voiceover"></speech202112011911377390>
+<speech202112011911556354 character_tech_name="meredith" speech_text="y8XLigNjZa7PF8c5kev/slQsvhYe2hwKzaXMoiW0hvl23nqdMRW9L7BGUbUBE+N4nf1Lg7SHStaP1cK/05i1sX4SSK6ua4zB" speech_type="voiceover"></speech202112011911556354>
+<speech202112011912074903 character_tech_name="meredith" speech_text="y8XLigNjZa7l6TVa56h1oV1z9AgbXFZ7RL6URxhIAaCwtyN32eYJ9A==" speech_type="voiceover"></speech202112011912074903>
+<speech202112011912196957 character_tech_name="meredith" speech_text="NVfrcJPKJ6tnygGfhpjQvg=="></speech202112011912196957>
+<speech202112011912266136 character_tech_name="derek" speech_text="NVfrcJPKJ6t78D/gNPSkpkLDx0nYlQtNBHdvYCMdlOg="></speech202112011912266136>
+<speech202112011912371727 character_tech_name="meredith" speech_text="VkGvcJW9CjOl5XehTFBVjPF8xbf03TvSNUrTP/Cz8aRM4wVC7qJwt5D7qregM5lO"></speech202112011912371727>
+<speech202112011912493613 character_tech_name="derek" speech_text="ZerNRD0i71ej5JDMB0KD4rwBQ8myhnbBEImzME8jBL9l/gd4vyNl8ywMWMA12fT7MqH/w0Qp3QJBwytan3tibR2RPmMba8+U"></speech202112011912493613>
+<speech202112011913086364 character_tech_name="meredith" speech_text="IchWYrFh08LbUzXVTwb0K0zjBULuonC3T7z462+qVznE5xG4wU03k8OcMeDt/ZMnjFudjrM1Xl0MFpdiRb9JzOgdaev7cPgjW/9hx1ZiIbnIzPhi61OoC0bEUu/F9YD1KHFVYPysCKOwtyN32eYJ9A=="></speech202112011913086364>
+<speech202112011913199227 character_tech_name="derek" speech_text="fvL7b+e8NL+iHaXtqxywXoEVXSl/6aoYB4/evAHhaZg="></speech202112011913199227>
+<speech202112011913286746 character_tech_name="meredith" speech_text="DBjirdy+rjA="></speech202112011913286746>
+<speech202112011913357988 character_tech_name="derek" speech_text="CyMEX6zLQok="></speech202112011913357988>
+<speech202112011913408993 character_tech_name="meredith" speech_text="ENfKOK7CBBMqFJVzUX+SVw=="></speech202112011913408993>
+<speech202112011913491908 character_tech_name="derek" speech_text="1+vsDeoQziD4DNTZFUlHWpBUJC5slJmw8tBkWesdMwjDI24jL1JO1untecRUf+HV2Ym/wWRnXZsTKSIjEzVzVLER+3JSwiYBJvab4csg+to3o9Jd0M//Jg=="></speech202112011913491908>
+<speech202112011913579504 character_tech_name="meredith" speech_text="IabBavGJe1klr5M/4zakpkU7epQaiZVb1op68/UIxAG8yqSjByGuXa3oc9++mOP5llHaA2w4Z2C6R/Nrq40GtjKcmF3gs62Oq/+rrvEJcr4="></speech202112011913579504>
+<speech202112011914061780 character_tech_name="derek" speech_text="W/bSogxNT3SZn2WeLdgMpQ=="></speech202112011914061780>
+<speech202112011914138010 character_tech_name="meredith" speech_text="sXN17py6lbgUdk5jYTksOA=="></speech202112011914138010>
+<speech202112011914224920 character_tech_name="derek" speech_text="T8xkSqmQJ+qY7DBfA9y+Ew=="></speech202112011914224920>
+<speech202112011914285583 character_tech_name="meredith" speech_text="AKrhkdXI+ki/eKxAch1ALAdxYbL1AWU4+/tQ/8cRFMwzyT/vVJ14GOPLvHSRarTYXAJ+3BJF0nOH4bwyW8CqxDRCwUx/ahsDX30JchIfn3ULSUKGDQnNaw=="></speech202112011914285583>
+<speech202112011914369337 character_tech_name="derek" speech_text="IgXrQHR0lrH2SLacbl82i2tpKCDpnf8YINErDLDDC28LSUKGDQnNaw=="></speech202112011914369337>
+<speech202112011914439580 character_tech_name="meredith" speech_text="uqw3EKJSeR3TYXRLl4LfkNVXNnd21/7uraxnrbhd8AYIoJqD1ialoRhNTQ153G11gz/DY93lnIdtE2hQNS+mjPTqVlkyexp8GMyYl4yy4e/atJXrSanSU61YDKtF4zrNWyJunucF1PA8oTxnvfWcpoHKToyOPcjypq6KmkiRT0Zu9XUQFnXpUc0vGUZmarAMc86gGBRGn7w8qjpnCXpyPTXdP7V4DlwksLcjd9nmCfQ="></speech202112011914439580>
+<speech202112011914559624 character_tech_name="derek" speech_text="dVsnvQZvYqM="></speech202112011914559624>
+<speech202112011915024794 character_tech_name="meredith" speech_text="cIF83C9m+DcLisBPDGi79MTDJ+eH2NNL"></speech202112011915024794>
+<speech202112011915079014 character_tech_name="derek" speech_text="M6hgYTKVSoCwtyN32eYJ9A=="></speech202112011915079014>
+<speech202112011915155767 character_tech_name="meredith" speech_text="FK8ztfAdZDRatXQ6d2KSwQ=="></speech202112011915155767>
+<speech202112011915211960 character_tech_name="derek" speech_text="u1QqOODvjYBWiaanhyMnKrC3I3fZ5gn0"></speech202112011915211960>
+<speech202112011915275451 character_tech_name="meredith" speech_text="8Uf9FVEG5niqZjA3OuQmug=="></speech202112011915275451>
+</scene_001_in_house>
+</location>
+<location tech_name="location202203241616451472">
+<first_day_in_hospital tech_color="fshTrJSQcVg=" tech_lenght="578" scene_time="1" scene_title="3hy/GHAMDIjKIXlmGlYkagNoa3J8tM5wMoSuueIhr0PecfQaAykQpw==" tech_pos="154.7">
+<speech202203241625556018 character_tech_name="webber" speech_text="GLXO+Vbwk8VU5bDioW+G0Rvr1cbkDa2SnU8q7oGz33ZlgDi13/Dr9KjBMyU10BP6FtyjwDbcA6+g/PCRVqaekRgXF5A6iIatNtUGEDOix7DlDTtVNrtio0DrE8mpv/353Th/p17FAkxYvLAUigmMPEFM6RS6MptLiaiulcU0QeI="></speech202203241625556018>
+<speech202203241628538225 character_tech_name="webber" speech_text="Vn5uJjiYMiNvkk80+B1ub5W1fRnlK9Q6+DzkaTCml7c="></speech202203241628538225>
+<speech202203241627566641 character_tech_name="webber" speech_text="6otEz6zXQ1AntSIKEoTktVRzAmtVeWVShPI91jQ3iuTsUSJu16nDWxha9J/Zih0yVtBrFVbEzz700P2P8bIGdVvIuTr5y1UQAwh45TfzonKBotjP3DPdNMRTLE8XQcRj"></speech202203241627566641>
+<speech202203241633196046 character_tech_name="webber" speech_text="w35IXecXVYQXpbgBAMqJ3X4te2g1h1g2Fh/H5laqm/oyhg/JhVsJabC3I3fZ5gn0"></speech202203241633196046>
+<speech202203241629496343 character_tech_name="webber" speech_text="q2r3hhKBiy9SLYgX1Cz/2gtJQoYNCc1r"></speech202203241629496343>
+<speech202203241633427833 character_tech_name="webber" speech_text="tZk8KLrhuWboO1ZRt0/q+VejUIVrGBcF6EHwPRToWT0="></speech202203241633427833>
+<speech202203241634489111 character_tech_name="webber" speech_text="qH+TsjWHA4LCxt8SgTWOCm9u2gjfi51o2gbdprnrnEPnW/TMzfwzmZxfiN/NG9q6C0lChg0JzWs="></speech202203241634489111>
+<speech202203241635081435 character_tech_name="webber" speech_text="35Lym7tNArEOTEu+IRAxYfBG7iNTx5DK9WlzIeguwZ2BfWSz0JNW5sRTLE8XQcRj"></speech202203241635081435>
+<speech202203241635301250 character_tech_name="webber" speech_text="8NlQJO0GPXygXLVCFLAIU/Kfv1e7TP5jS9sdBSsbr13EUyxPF0HEYw=="></speech202203241635301250>
+<speech202203241635559161 character_tech_name="webber" speech_text="03/s8k46wS9ngvPxONjUBkdFqZuAlj7SYnxowW7RDymbogOj5GzlgDpwRRaJFJPt"></speech202203241635559161>
+<speech202203241631294189 character_tech_name="webber" speech_text="RyEDX8OSb1C6HN/9fH+D8W9VNPaHmOIWVXmmKXR+NUZ9Tpt+6019Sw=="></speech202203241631294189>
+<speech202203241631529142 character_tech_name="meredith" speech_text="y8XLigNjZa4OPEBfNRLVpc7yci3+u2wQTOn0lvTGz9KtMqajtgrWQQtJQoYNCc1r" speech_type="voiceover"></speech202203241631529142>
+</first_day_in_hospital>
+</location>
+</episode>
+</episodes><locations>
+<location202112011908338246 location_title="M6hgYTKVSoADYMYP05/IZgtJQoYNCc1r" location_name="UDmZU9LvtAPAj5JFPSH/QbkV39FFdCgNFHbNfXpiSGI=" location_description="OEgg0bKq7BXfSRuRqtsqhlA5mVPS77QD+pizeno1kUOEckW1tOBi0Q=="></location202112011908338246>
+<location202203241616451472 location_title="87OVdLAKo/aO4d1kXv1BsiSwf4c1rYmH" location_description="OEgg0bKq7BXfSRuRqtsqhlA5mVPS77QD+pizeno1kUOEckW1tOBi0Q==" location_name="UDmZU9LvtAPQdyGT75P1f4uEiDJ/PH3zc2XgYZI8Ixg="></location202203241616451472>
+<location202204062022485272 location_title="5U7/mdvP4F6a/bbzrHAmuZaZC1+18DLG" location_description="OEgg0bKq7BXfSRuRqtsqhlA5mVPS77QD+pizeno1kUOEckW1tOBi0Q==" show_status="HIDDEN" location_name="UDmZU9LvtAPmT5jE+aWLSMnEELUPIzYsc2XgYZI8Ixg="></location202204062022485272>
+</locations><scenes>
+<scene202204122042164293 tech_color="0eSRuD0mTzA=" tech_lenght="0" scene_time="1" scene_title="XuD7+bqb40lLW0kQC857xusX8zLFV65/" tech_pos="424.83" show_status="HIDDEN" ></scene202204122042164293>
+</scenes><stories>
+<story202112011917377997 character_1="meredith" character_2="derek" story_title="W2FyfCmWrVZswNfJcs1veQ==" story_text="lzRkJXISL2ucx3FK0JHfCARkRWqCbMicvvHaPA6iAmjeHL8YcAwMiMoheWYaViRqfDCttS1f0CveHL8YcAwMiDDDH13fwLoo+3T7U1zWmU3C1/hZK6ovkylLoLirCfhm/Zhiy39hOl0LSUKGDQnNaw==" story_color="oyqW0/V2U78="></story202112011917377997>
+</stories></project></root>
