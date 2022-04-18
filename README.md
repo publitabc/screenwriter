@@ -1,4 +1,5 @@
-# Homepage, update news and more https://www.patreon.com/publit
+# Homepage, update news and more
+## https://www.patreon.com/publit
 
 ![alt text](preview1.jpg)
 ![alt text](preview2.jpg)
