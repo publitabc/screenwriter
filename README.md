@@ -9,5 +9,3 @@
 ![alt text](preview4.jpg)
 
 ![alt text](preview5.jpg)
-
-##### Screenwriting software created in Autoplay media studio
