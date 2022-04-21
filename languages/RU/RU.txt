@@ -159,3 +159,6 @@ abc.language.RU["GUI_PROJECT_TITLE"] = "опнейр";
 abc.language.RU["BUTTON_HIDDEN_ELEMENTS"] = "яйпшрше щкелемрш";
 abc.language.RU["BUTTON_ALL_DIALOGS"] = "бяе дхюкнцх";
 abc.language.RU["GUI_SCALING_GUI"] = "люяьрюахпнбюмхе GUI";
+abc.language.RU["GUI_FILTER_BY_TEXT"] = "он рейярс";
+abc.language.RU["GUI_FILTER_BY_CHARACTER"] = "он оепяс";
+abc.language.RU["BUTTON_SEARCH"] = "онхяй";

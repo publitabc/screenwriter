@@ -1,0 +1,4 @@
+abc.character.name = {
+male = { termination = "", "Male name", },
+female = { termination = "", "Female name" }, }
+abc.character.surname = { "Surname", }

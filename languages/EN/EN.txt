@@ -159,3 +159,6 @@ abc.language.EN["GUI_PROJECT_TITLE"] = "PROJECT";
 abc.language.EN["BUTTON_HIDDEN_ELEMENTS"] = "HIDDEN ELEMENTS";
 abc.language.EN["BUTTON_ALL_DIALOGS"] = "ALL DIALOGUES";
 abc.language.EN["GUI_SCALING_GUI"] = "SCALING GUI";
+abc.language.EN["GUI_FILTER_BY_TEXT"] = "BY TEXT";
+abc.language.EN["GUI_FILTER_BY_CHARACTER"] = "BY CHARACTER";
+abc.language.EN["BUTTON_SEARCH"] = "SEARCH";
