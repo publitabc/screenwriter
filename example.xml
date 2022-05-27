@@ -1,21 +1,21 @@
-<root system_width="1920" owner="RwtCjLTn13U=" check="X4bsWoQWXZ8=" show_percentage_completed="TRUE" dialogs_per_page="2" language="EN" scroll_speed="50" show_timeline="TRUE" show_redline="FALSE" make_backup="TRUE" show_exit_dialog="TRUE" custom_background="TRUE" background_file="E0Rt0oVuL9SR/x9SPG59JpfiZYWCyOCNC0lChg0JzWs="><project title="e6YfKkV10Zc=" type="tv_show" time="45" version="66"><characters>
-<meredith character_name="WaKI18XFGgrUaR4GNpehBg==" character_role="M6hgYTKVSoCz7eg7hdrALw==" role_notice="" character_profile="LM35Pvydo1nZAmh1aS9wb60Ltsca4wtNoIdVFkJVV/hPYeQvDVWInQ==" character_info="" show_status="VISIBLE">
+<root system_width="1920" owner="RwtCjLTn13U=" check="X4bsWoQWXZ8=" show_percentage_completed="TRUE" dialogs_per_page="2" language="EN" scroll_speed="50" show_timeline="TRUE" show_redline="FALSE" make_backup="TRUE" show_exit_dialog="TRUE" custom_background="TRUE" background_file="E0Rt0oVuL9SR/x9SPG59JpfiZYWCyOCNC0lChg0JzWs="><project title="e6YfKkV10Zc=" type="tv_show" time="45" version="73"><characters>
+<meredith character_name="2lPE7ZvAdum+LWgZodLnbA==" character_role="9lOFe8GmApfB0mgz++QFi9D0GI59j8te" role_notice="" character_profile="LM35Pvydo1nZAmh1aS9wb60Ltsca4wtNoIdVFkJVV/hPYeQvDVWInQ==" character_info="" show_status="VISIBLE">
 <connection202112011917376215 target="derek" story="story202112011917377997"></connection202112011917376215>
 </meredith>
-<derek character_name="uGUmFVxXbHbS71xuw1k4XA==" character_role="neeoeT/Zio9CoY2yY/oSTw==" role_notice="" character_profile="LM35Pvydo1nZAmh1aS9wb60Ltsca4wtNLp70mllrz7XVGETCs6f9mQ==" character_info="" show_status="VISIBLE">
+<derek character_name="2DzUSNfvkPbKc+24Jgj04w==" character_role="zYhcGMDd2gaFaZ1a9HFUlGVfjeHubnuj" role_notice="" character_profile="LM35Pvydo1nZAmh1aS9wb60Ltsca4wtNLp70mllrz7XVGETCs6f9mQ==" character_info="" show_status="VISIBLE">
 <connection202112011917376215 target="meredith" story="story202112011917377997"></connection202112011917376215>
 </derek>
-<webber character_role="ZlZ5IDB49DjXtVqfpbJknYxqglPeNEHf" character_name="" role_notice="" character_profile="" character_info="" show_status="VISIBLE">
+<webber character_role="trfYS0zu8AU+0lot62elBTfCiF84BNHZ" character_name="" role_notice="" character_profile="" character_info="" show_status="VISIBLE">
 <connection202205061608503504 target="webber" story="story202205061608504246"></connection202205061608503504>
 </webber>
 <character202204061911526285 character_role="VTqjO4+Qk111iBu5ZQFDuVOZKM585leA" character_name="" role_notice="" character_profile="" character_info="" show_status="HIDDEN"></character202204061911526285>
 </characters><episodes>
 <episode tech_name="UAHLXzM6OzYZgECirnYRWnAhxgBAeavReHhnpYaNa1M=" episode_title="TA6HOPuswV/WghKAeu0ru1RZy7p/KNgD" episode_description="kVfiuMhJv8eb7DpZt2Jih4RT8zjw7BFR7FEibtepw1tk0CCX4S+piBTuH7HxgmhQ+zTxWwSzPr7XrlSu+qkMD4gRA1J/EnpDc1Gn03HQAxB1koESha+7TwC4WAgcbxXBxfApxoutvmKbbRqIs2XGCRHCi3f3qSOV">
 <location tech_name="location202112011908338246">
-<scene_001_in_house tech_color="/1p5ywZUl6w=" tech_lenght="1057" scene_time="1" scene_title="nIBEWzZraDoD4TJ4gcG8ZqsooI7QZaBv1kPwBEqUOZyee5ecTS5K4w==" tech_pos="0" main_story="story202112011917377997">
-<speech202112011911377390 character_tech_name="meredith" speech_text="y8XLigNjZa7jl6c+NGzHbQwvMrdWben93aiXGPmQTkbMFWR/bzE6aBUcsSZf9+fk6EK4sRjM+DyaTQa6kLhCT8aw93vcAyOYSTDhhuuIZV3mx0r5XV/0wwtJQoYNCc1r" speech_type="voiceover"></speech202112011911377390>
-<speech202112011911556354 character_tech_name="meredith" speech_text="y8XLigNjZa7PF8c5kev/slQsvhYe2hwKzaXMoiW0hvl23nqdMRW9L7BGUbUBE+N4nf1Lg7SHStaP1cK/05i1sX4SSK6ua4zB" speech_type="voiceover"></speech202112011911556354>
-<speech202112011912074903 character_tech_name="meredith" speech_text="y8XLigNjZa7l6TVa56h1oV1z9AgbXFZ7RL6URxhIAaCwtyN32eYJ9A==" speech_type="voiceover"></speech202112011912074903>
+<scene_001_in_house tech_color="/1p5ywZUl6w=" tech_lenght="1018" scene_time="1" scene_title="nIBEWzZraDoD4TJ4gcG8ZqsooI7QZaBv1kPwBEqUOZyee5ecTS5K4w==" tech_pos="0" main_story="story202112011917377997" prefix_text="INT.">
+<speech202112011911377390 character_tech_name="meredith" speech_text="71XGrRGDT7YdPHPNAOCY2a4ns0A9h0+SJQ8lkPpaGJJ3/MiwUL2tX0gvaqfYy21gP09RdDfXG1YpsIbL8W28PrUOA7k5twcHE094+q8Z5CQ=" speech_type="voiceover"></speech202112011911377390>
+<speech202112011911556354 character_tech_name="meredith" speech_text="sta8lLMB84XizF/nPwSlJ1UF68LSZ5Eo0wqxNap7Nsxpi8PXL/0Ydm6H3HZR3ZhH3QhsSHlhqF6wtyN32eYJ9A==" speech_type="voiceover"></speech202112011911556354>
+<speech202112011912074903 character_tech_name="meredith" speech_text="KfIoqBgDllONkVD3aGmS7qMEfF9ttsXN" speech_type="voiceover"></speech202112011912074903>
 <speech202112011912196957 character_tech_name="meredith" speech_text="NVfrcJPKJ6tnygGfhpjQvg=="></speech202112011912196957>
 <speech202112011912266136 character_tech_name="derek" speech_text="NVfrcJPKJ6t78D/gNPSkpkLDx0nYlQtNBHdvYCMdlOg="></speech202112011912266136>
 <speech202112011912371727 character_tech_name="meredith" speech_text="VkGvcJW9CjOl5XehTFBVjPF8xbf03TvSNUrTP/Cz8aRM4wVC7qJwt5D7qregM5lO"></speech202112011912371727>
@@ -42,7 +42,7 @@
 </scene_001_in_house>
 </location>
 <location tech_name="location202203241616451472">
-<first_day_in_hospital tech_color="fshTrJSQcVg=" tech_lenght="578" scene_time="1" scene_title="3hy/GHAMDIjKIXlmGlYkagNoa3J8tM5wMoSuueIhr0PecfQaAykQpw==" tech_pos="154.7">
+<first_day_in_hospital tech_color="fshTrJSQcVg=" tech_lenght="565" scene_time="1" scene_title="3hy/GHAMDIjKIXlmGlYkagNoa3J8tM5wMoSuueIhr0PecfQaAykQpw==" tech_pos="154.7" completed_status="COMPLETED" prefix_text="INT.">
 <speech202203241625556018 character_tech_name="webber" speech_text="GLXO+Vbwk8VU5bDioW+G0Rvr1cbkDa2SnU8q7oGz33ZlgDi13/Dr9KjBMyU10BP6FtyjwDbcA6+g/PCRVqaekRgXF5A6iIatNtUGEDOix7DlDTtVNrtio0DrE8mpv/353Th/p17FAkxYvLAUigmMPEFM6RS6MptLiaiulcU0QeI="></speech202203241625556018>
 <speech202203241628538225 character_tech_name="webber" speech_text="Vn5uJjiYMiNvkk80+B1ub5W1fRnlK9Q6+DzkaTCml7c="></speech202203241628538225>
 <speech202203241627566641 character_tech_name="webber" speech_text="6otEz6zXQ1AntSIKEoTktVRzAmtVeWVShPI91jQ3iuTsUSJu16nDWxha9J/Zih0yVtBrFVbEzz700P2P8bIGdVvIuTr5y1UQAwh45TfzonKBotjP3DPdNMRTLE8XQcRj"></speech202203241627566641>
@@ -54,13 +54,13 @@
 <speech202203241635301250 character_tech_name="webber" speech_text="8NlQJO0GPXygXLVCFLAIU/Kfv1e7TP5jS9sdBSsbr13EUyxPF0HEYw=="></speech202203241635301250>
 <speech202203241635559161 character_tech_name="webber" speech_text="03/s8k46wS9ngvPxONjUBkdFqZuAlj7SYnxowW7RDymbogOj5GzlgDpwRRaJFJPt"></speech202203241635559161>
 <speech202203241631294189 character_tech_name="webber" speech_text="RyEDX8OSb1C6HN/9fH+D8W9VNPaHmOIWVXmmKXR+NUZ9Tpt+6019Sw=="></speech202203241631294189>
-<speech202203241631529142 character_tech_name="meredith" speech_text="y8XLigNjZa4OPEBfNRLVpc7yci3+u2wQTOn0lvTGz9KtMqajtgrWQQtJQoYNCc1r" speech_type="voiceover"></speech202203241631529142>
+<speech202203241631529142 character_tech_name="meredith" speech_text="QEcWWoEhmIjWXCby6saUflFHYkh/4dSoVOIQbll7WkY=" speech_type="voiceover"></speech202203241631529142>
 </first_day_in_hospital>
 </location>
 </episode>
 </episodes><locations>
-<location202112011908338246 location_title="M6hgYTKVSoADYMYP05/IZgtJQoYNCc1r" location_name="UDmZU9LvtAPAj5JFPSH/QbkV39FFdCgNFHbNfXpiSGI=" location_description="OEgg0bKq7BXfSRuRqtsqhlA5mVPS77QD+pizeno1kUOEckW1tOBi0Q=="></location202112011908338246>
-<location202203241616451472 location_title="87OVdLAKo/aO4d1kXv1BsiSwf4c1rYmH" location_description="OEgg0bKq7BXfSRuRqtsqhlA5mVPS77QD+pizeno1kUOEckW1tOBi0Q==" location_name="UDmZU9LvtAPQdyGT75P1f4uEiDJ/PH3zc2XgYZI8Ixg="></location202203241616451472>
+<location202112011908338246 location_title="+0knyYiP7C6Tr7/yVaOxMgtJQoYNCc1r" location_name="UDmZU9LvtAPAj5JFPSH/QbkV39FFdCgNFHbNfXpiSGI=" location_description="OEgg0bKq7BXfSRuRqtsqhlA5mVPS77QD+pizeno1kUOEckW1tOBi0Q=="></location202112011908338246>
+<location202203241616451472 location_title="/fYGM7jSmqgzOISKrtDi6wWEHbt5EBjy" location_description="OEgg0bKq7BXfSRuRqtsqhlA5mVPS77QD+pizeno1kUOEckW1tOBi0Q==" location_name="UDmZU9LvtAPQdyGT75P1f4uEiDJ/PH3zc2XgYZI8Ixg="></location202203241616451472>
 <location202204062022485272 location_title="5U7/mdvP4F6a/bbzrHAmuZaZC1+18DLG" location_description="OEgg0bKq7BXfSRuRqtsqhlA5mVPS77QD+pizeno1kUOEckW1tOBi0Q==" show_status="HIDDEN" location_name="UDmZU9LvtAPmT5jE+aWLSMnEELUPIzYsc2XgYZI8Ixg="></location202204062022485272>
 </locations><scenes>
 <scene202204122042164293 tech_color="0eSRuD0mTzA=" tech_lenght="0" scene_time="1" scene_title="XuD7+bqb40lLW0kQC857xusX8zLFV65/" tech_pos="424.83" show_status="HIDDEN" ></scene202204122042164293>
