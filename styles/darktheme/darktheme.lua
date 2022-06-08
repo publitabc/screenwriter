@@ -1,7 +1,7 @@
 --read only this file
 abc.settings.theme = "darktheme";
 
-abc.theme.style_paper = "\\styles\\darktheme\\dback.png";
+abc.theme.style_paper = "\\styles\\darktheme\\seback.png";
 abc.theme.style_locations = "\\styles\\darktheme\\dot_teal.png";
 abc.theme.style_menu = "\\styles\\darktheme\\dot_white.png";
 abc.theme.style_gold = "\\styles\\darktheme\\dot_white.png";
@@ -29,7 +29,8 @@ abc.color.aqua = "196666";
 abc.color.orange = "7f4c00";
 abc.color.blue = "19337f";
 abc.color.lightblue = "8c99bf";
-abc.color.lime = "4c6600";
+abc.color.lime = "739900";
+abc.color.darklime = "4c6600";
 abc.color.epi = "340e45";
 abc.color.rose = "7f4c66";
 abc.color.grey75 = "1f1f1f";
