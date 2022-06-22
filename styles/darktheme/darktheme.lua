@@ -27,6 +27,7 @@ abc.color.violet = "8000FF";
 abc.color.gold = "7f6600";
 abc.color.aqua = "196666";
 abc.color.orange = "7f4c00";
+abc.color.darkorange = "3f2600";
 abc.color.blue = "19337f";
 abc.color.lightblue = "8c99bf";
 abc.color.lime = "739900";

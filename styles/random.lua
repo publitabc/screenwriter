@@ -27,6 +27,7 @@ abc.color.violet = "";
 abc.color.gold = "";
 abc.color.aqua = "";
 abc.color.orange = "";
+abc.color.darkorange = "";
 abc.color.blue = "";
 abc.color.lightblue = "";
 abc.color.lime = "";
