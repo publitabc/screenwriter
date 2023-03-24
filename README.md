@@ -1,5 +1,3 @@
-## Homepage, update news and more https://www.patreon.com/publit
-
 ![alt text](/preview/preview1.jpg)
 
 ![alt text](/preview/preview2.jpg)
