@@ -2,22 +2,29 @@
 abc.settings.theme = "darktheme";
 
 abc.theme.style_paper = "\\styles\\darktheme\\seback.png";
-abc.theme.style_locations = "\\styles\\darktheme\\dot_teal.png";
+abc.theme.style_locations = "\\styles\\darktheme\\dot_white.png";
 abc.theme.style_menu = "\\styles\\darktheme\\dot_white.png";
 abc.theme.style_gold = "\\styles\\darktheme\\dot_white.png";
-abc.theme.style_apply = "\\styles\\darktheme\\dot_white.png";
+abc.theme.style_apply = "\\styles\\darktheme\\dot_darkgreen.png";
 abc.theme.style_scenes = "\\styles\\darktheme\\dot_white.png";
 abc.theme.style_episodes = "\\styles\\darktheme\\dot_white.png";
 abc.theme.style_characters = "\\styles\\darktheme\\dot_white.png";
-abc.theme.style_delete = "\\styles\\darktheme\\dot_white.png";
+abc.theme.style_delete = "\\styles\\darktheme\\dot_darkred.png";
 abc.theme.style_project = "\\styles\\darktheme\\dot_white.png";
 abc.theme.style_stories = "\\styles\\darktheme\\dot_white.png";
 abc.theme.style_white = "\\styles\\darktheme\\dot_white.png";
+abc.theme.icon_apply = "\\styles\\darktheme\\apply.png";
+abc.theme.icon_cancel = "\\styles\\darktheme\\cancel.png";
+abc.theme.icon_up = "\\styles\\darktheme\\icon_up.png";
+abc.theme.icon_down = "\\styles\\darktheme\\icon_down.png";
+abc.theme.icon_delete = "\\styles\\darktheme\\icon_delete.png";
 
 abc.color.back = "404040";
 abc.color.dialog_back = "606060";
 abc.color.list_back = "999999";
 abc.color.input_back = "999999";
+abc.color.button_back = "adadad";
+abc.color.title_back = "adadad";
 abc.color.teal = "004040";
 abc.color.voiceover = "7f664c";
 abc.color.event = "4c667f";

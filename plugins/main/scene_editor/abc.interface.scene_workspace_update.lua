@@ -4,11 +4,10 @@ local page_size = Page.GetSize();
 	local_speech_size = (page_size.Width-500);
 	Image.SetVisible("object_frame_paper", false);
 	elseif global_setting_scene_gui == "SMALL" then
-	--local_speech_size = 670;
-	--Image.SetProperties("object_frame_paper", { X = ((page_size.Width/2)-(local_speech_size/2)-40), Height = page_size.Height, Visible = true, });
 	local_speech_size = 760;
 	Image.SetProperties("object_frame_paper", { X = ((page_size.Width/2)-((local_speech_size+40)/2)), Height = page_size.Height, Visible = true, });
 	end
+	if latest_input_editor ~= nil then abc.interface.text_editor_close(latest_input_editor); end
 Paragraph.SetPos("gui_scene_title", (page_size.Width-240), 10);
 Paragraph.SetPos("gui_scene_help", (page_size.Width-240+200+1), 11);
 Input.SetPos("input_scene_title", (page_size.Width-240+1), 41);
@@ -47,10 +46,9 @@ Input.SetPos("input_scene_tech_name", (page_size.Width-240+2), 620);
 local objects_table = Page.EnumerateObjects();
 	for object_number, object_name in pairs (objects_table) do
 		if String.Find(object_name, "speech", 1, false) ~= -1 then
-			if Page.GetObjectType(object_name) == 2 then
-			Paragraph.SetProperties(object_name, { Width = local_speech_size, X = ((page_size.Width/2)-(local_speech_size/2)), });
-			elseif Page.GetObjectType(object_name) == 7 then
-			Input.SetProperties(object_name, { Width = (local_speech_size-2), X = ((page_size.Width/2)-(local_speech_size/2)+1), });
+			if String.Find(object_name, "field", 1, false) == -1 then
+			Paragraph.SetProperties(object_name, { Width = (local_speech_size-2), X = ((page_size.Width/2)-(local_speech_size/2)+1), });
+			else Paragraph.SetProperties(object_name, { Width = local_speech_size, X = ((page_size.Width/2)-(local_speech_size/2)), });
 			end
 		end
 	end

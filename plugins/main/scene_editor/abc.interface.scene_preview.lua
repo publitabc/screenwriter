@@ -32,7 +32,7 @@ local _t = XML.GetElementNames(global_scene_path, true, false);
 		position_y = (position_y+20);
 		local speech_text = XML.GetAttribute(_s, "speech_text");
 		speech_text = Crypto.BlowfishDecryptString(speech_text, global_safety_key);
-		local object_height = String.Length(speech_text)/1.1;
+		local object_height = String.Length(speech_text)/0.9;
 			if object_height < 30 then object_height = 30; end
 			if String.Find(speech_text, "\r\n", 1, false) ~= -1 then object_height = (object_height+20); end
 		Page.CreateObject(2, "gen_element_".._n..".2", { FontScript = global_settings_charset, FontSize = 12, FontName = "Courier New", Text = speech_text, X = ((page_size.Width/2)-((local_speech_size-400)/2)), Y = position_y, Width = (local_speech_size-400), Height = object_height, BGStyle = preview_mode, BGColor = abc.color.grey25, ScrollHorizontal = 2, ScrollVertical = 2, ColorNormal = abc.color.black, ColorDisabled = abc.color.black, Enabled = false, Alignment = 1, });

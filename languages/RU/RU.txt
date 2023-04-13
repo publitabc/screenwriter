@@ -190,3 +190,4 @@ abc.language.RU["BUTTON_PRINT"] = "оевюрэ";
 abc.language.RU["BUTTON_PROJECT_VERSIONS"] = "бепяхх опнейрю";
 abc.language.RU["GUI_PROJECT_VERSION"] = "бепяхъ опнейрю";
 abc.language.RU["BUTTON_LOAD"] = "гюцпсгхрэ";
+abc.language.RU["GUI_SAVE_BACKUPS"] = "янупюмърэ ащйюош";

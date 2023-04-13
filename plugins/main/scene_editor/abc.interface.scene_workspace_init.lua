@@ -1,5 +1,4 @@
 abc.interface.scene_workspace_init = function ()
---local_speech_size = 670;
 local_speech_size = 760;
 local_speech_number = 1;
 local_speech_side = 2;
@@ -39,7 +38,11 @@ Input.SetProperties("input_scene_tech_name", { FontScript = global_settings_char
 Image.SetProperties("object_frame_paper", { ImageFile = _SourceFolder..abc.theme.style_paper, });
 Image.SetProperties("object_frame_lime", { ImageFile = _SourceFolder..abc.theme.style_scenes, });
 Paragraph.SetProperties("gui_scene_help", { FontScript = global_settings_charset, TooltipText = abc.language[global_settings_language]["HELP_CHARACTER_LINK"], BGColor = abc.color.green, ColorNormal = abc.color.black, ColorHighlight = abc.color.black, ColorDown = abc.color.black, });
-
+Image.SetProperties("button_tool_apply", { ImageFile = _SourceFolder..abc.theme.icon_apply, });
+Image.SetProperties("button_tool_cancel", { ImageFile = _SourceFolder..abc.theme.icon_cancel, });
+Image.SetProperties("button_tool_up", { ImageFile = _SourceFolder..abc.theme.icon_up, });
+Image.SetProperties("button_tool_down", { ImageFile = _SourceFolder..abc.theme.icon_down, });
+Image.SetProperties("button_tool_delete", { ImageFile = _SourceFolder..abc.theme.icon_delete, });
 	if global_setting_scene_gui == "CLASSIC" then
 	Paragraph.SetText("button_gui_style", abc.language[global_settings_language]["SCENE_GUI_CLASSIC"]);
 	elseif global_setting_scene_gui == "SMALL" then
@@ -50,7 +53,6 @@ Paragraph.SetProperties("gui_scene_help", { FontScript = global_settings_charset
 	elseif global_setting_scene_align == "OFF" then
 	Paragraph.SetText("button_text_align", abc.language[global_settings_language]["SCENE_ALIGN_OFF"]);
 	end
-
 local objects_table = Page.EnumerateObjects();
 	for object_number, object_name in pairs (objects_table) do
 		if String.Find(object_name, "button", 1, false) ~= -1 then
@@ -75,7 +77,6 @@ local characters_table = XML.GetElementNames("root/project/characters", false, f
 		ListBox.AddItem("gui_list_members", character_notice, character_tech_name);
 		end--if show_status
 	end--for
-
 local completed_status = XML.GetAttribute(global_scene_path, "completed_status");
 	if completed_status == "" then
 	Paragraph.SetText("button_completed", abc.language[global_settings_language]["GUI_TEXT_NOT_COMPLETED"]);
@@ -84,12 +85,10 @@ local completed_status = XML.GetAttribute(global_scene_path, "completed_status")
 	elseif completed_status == "NOTCOMPLETED" then
 	Paragraph.SetText("button_completed", abc.language[global_settings_language]["GUI_TEXT_NOT_COMPLETED"]);
 	end
-
 local scene_title = XML.GetAttribute(global_scene_path, "scene_title");
 scene_title = Crypto.BlowfishDecryptString(scene_title, global_safety_key);
 Input.SetText("input_scene_title", scene_title);
 Input.SetText("input_scene_tech_name", global_scene_name);
-
 global_story_name = XML.GetAttribute(global_scene_path, "main_story");
 if global_story_name ~= "" then
 local story_status = XML.GetAttribute("root/project/stories/"..global_story_name, "show_status");
@@ -111,8 +110,6 @@ story_text = abc.tool.link_to_name(story_text);
 else
 Paragraph.SetText("gui_story_main", "");
 end
-
 local show_status = XML.GetAttribute(global_scene_path, "show_status");
 	if show_status == "HIDDEN" then Paragraph.SetEnabled("button_hide", false); else Paragraph.SetEnabled("button_hide", true); end
-
 end--function
