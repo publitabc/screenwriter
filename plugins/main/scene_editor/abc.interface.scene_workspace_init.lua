@@ -57,7 +57,7 @@ local objects_table = Page.EnumerateObjects();
 	for object_number, object_name in pairs (objects_table) do
 		if String.Find(object_name, "button", 1, false) ~= -1 then
 			if Page.GetObjectType(object_name) == 2 then
-			Paragraph.SetProperties(object_name, { FontScript = global_settings_charset, BorderColor = abc.color.lime, BGColor = abc.color.white, ColorNormal = abc.color.black, ColorHighlight = abc.color.grey50, ColorDown = abc.color.grey25, });
+			Paragraph.SetProperties(object_name, { FontScript = global_settings_charset, BorderColor = abc.color.lime, BGColor = abc.color.button_back, ColorNormal = abc.color.black, ColorHighlight = abc.color.grey50, ColorDown = abc.color.grey25, });
 			Page.SetObjectScript(object_name, "On Enter", "local button_prop = Paragraph.GetProperties(\""..object_name.."\"); Image.SetProperties(\"object_frame_lime\", { X = button_prop.X, Y = button_prop.Y, Width = button_prop.Width, Height = button_prop.Height, Visible = true, });");
 			Page.SetObjectScript(object_name, "On Leave", "Image.SetVisible(\"object_frame_lime\", false);");
 			end
